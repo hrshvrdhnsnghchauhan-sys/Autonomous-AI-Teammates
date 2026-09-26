@@ -1,4 +1,4 @@
-# ResolveMate AI 🚀
+# ResolveMate AI 
 
 **The Autonomous AI Teammate that doesn't just reply — it resolves.**
 
